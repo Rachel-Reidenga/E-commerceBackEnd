@@ -21,7 +21,7 @@ Currently only the back end of the website, but functional for a user to see/mod
 
 Link to CLI walkthrough video [Walkthrough Video](https://drive.google.com/file/d/1keQP7hfmhsgYQXXmGWEapz26kiLnUOBR/view)
 
-Link to Insomnia walkthrough video [Walkthrough Video]()
+Link to Insomnia walkthrough video [Walkthrough Video](https://drive.google.com/file/d/1iFOpnHeUtsCGWVn49V2hgZR796Khrv00/view)
 
 Link to repository on [GitHub](https://github.com/Rachel-Reidenga/E-commerceBackEnd)
 
