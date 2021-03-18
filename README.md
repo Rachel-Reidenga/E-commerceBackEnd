@@ -1,5 +1,5 @@
 # E-commerce Back End
-## Manage your internet reatail
+## Manage your internet retail
 
 Any manager of an internet retail company will be able to access the back end of their website to help them compete with other e-commerce companies.
 
@@ -19,7 +19,7 @@ Currently only the back end of the website, but functional for a user to see/mod
 
 ## Deployment
 
-Link to CLI walkthrough video [Walkthrough Video]()
+Link to CLI walkthrough video [Walkthrough Video](https://drive.google.com/file/d/1keQP7hfmhsgYQXXmGWEapz26kiLnUOBR/view)
 
 Link to Insomnia walkthrough video [Walkthrough Video]()
 
